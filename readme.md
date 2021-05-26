@@ -17,56 +17,68 @@ shincapiem@eafit.edu.co
 
 ## Creación del clúster en AWS
 En la imagen se aprecia *emr-5.33.0* pero se tomó la versión *emr-6.1.0* para realizar este laboratorio.
-![1]()
+
+![1](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/uno.png)
 
 
 Se continua con la selección de las máquinas a continuación (esto para tener un menor costo por el uso de recursos menos "potentes").
-![2]()
+
+![2](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/dos.png)
 
 
 Ahora en siguiente y vemos la opción de Security group y seleccionamos la clave que ya creamos posteriormente en *key pair* para este laboratorio.
-![3]()
+
+![3](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/tres.png)
 
 
 La siguiente información la dejamos tal cual se encuentra.
-![4]()
+
+![4](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/cuatro.png)
 
 
 Al crear el clúster esperaremos a que inicie el mismo:
-![5]()
+
+![5](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/cinco.png)
 
 
 Luego de ser creado correctamente, debe de rellenarse el circulo en color verde y al ingresar a él, podremos ver información como la siguiente: 
-![6]()
+
+![6](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/Creacion-Cluster/cinco.png)
 
 
 ## Gestión de los archivos con Hue en Amazon EMR
 Continuaremos primero a revisar en *Security Groups* y añadiremos dos reglas en el puerto 22 y el 8888:
-![sg1]()
-![sg]()
+
+![sg1](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/security-group1.png)
+
+![sg](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/security-group.png)
 
 Ahora procederemos a trabajar con **Hue**
-![1]()
-![2]()
-![3]()
-![4]()
+
+![1](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/HUe/uno.png)
+
+![2](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/HUe/dos.png)
+
+![3](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/HUe/tres.png)
+
+![4](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/HUe/cuatro.png)
 
 
 ## Gestión con SSH por la consola
 Conexión a la máquina *master*
 
-![1]()
+![1](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/uno.png)
 
 Se ejecutarán los siguientes comandos con los resultados:
 
-![2]()
+![2](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/dos.png)
 
-![3]()
+![3](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/tres.png)
 
-![4]()
+![4](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/cuatro.png)
 
-![5]()
+![5](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/cinco.png)
 
-![6]()
+![6](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/seis.png)
 
-![7]()
+![7](https://github.com/AltoSolid/lab1-Telematica/blob/main/Img/SSH/siete.png)
