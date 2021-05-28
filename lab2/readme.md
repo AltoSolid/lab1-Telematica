@@ -9,8 +9,11 @@ shincapiem@eafit.edu.co
 
 ## 1. De forma interactiva vía Spark (En el nodo Master de EMR o en )
 Primero nos conectamos vía Spark al nodo Master como se muestra a continuación:
-![Spark-1]()
-![Spark-2]()
+
+![Spark-1](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Spark-1.png)
+
+![Spark-2](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Spark-2.png)
+
 
 Ahora corremos el siguiente comando: 
 
@@ -32,34 +35,52 @@ Ahora corremos el siguiente comando:
 
 
 Se mostraría como se aprecia a continuación: 
-![Spark-3]()
-![Spark-4]()
-![Spark-5]()
+
+![Spark-3](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Spark-3.png)
+
+![Spark-4](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Spark-4.png)
+
+![Spark-5](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Spark-5.png)
 
 
 ## Zeppelin Notebook 
 Ingresamos a *https://hdpzeppelin.dis.eafit.edu.co*
 
 Y procedemos a loguearnos y a ejecutar los siguientes pasos: 
-![zeppelin-1]()
-![zeppelin-2]()
-![zeppelin-3]()
-![zeppelin-4]()
-![zeppelin-5]()
-![zeppelin-6]()
+
+![zeppelin-1](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-1.png)
+
+![zeppelin-2](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-2.png)
+
+![zeppelin-3](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-3.png)
+
+![zeppelin-4](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-4.png)
+
+![zeppelin-5](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-5.png)
+
+![zeppelin-6](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Zeppelin/Zeppelin-6.png)
 
 ## Jupyter Notebook en EMR
 1. Clonamos el Cluster del lab1
 2. Creamos un notebook 
 3. Copiamos las lineas en el notebook nuevo,
 4. Ejecutamos el notebook paso a paso
-![1]()
-![2]()
-![3]()
-![4]()
-![5]()
-![6]()
-![7]()
-![8]()
-![9]()
+
+![1](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/1.png)
+
+![2](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/2.png)
+
+![3](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/3.png)
+
+![4](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/4.png)
+
+![5](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/5.png)
+
+![6](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/6.png)
+
+![7](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/7.png)
+
+![8](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/8.png)
+
+![9](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/9.png)
 
