@@ -84,3 +84,8 @@ Y procedemos a loguearnos y a ejecutar los siguientes pasos:
 
 ![9](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/9.png)
 
+![10](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/10.png)
+
+## Comprobación: 
+
+![10](https://github.com/AltoSolid/lab1-Telematica/blob/main/lab2/Img/Notebook/11.png)
